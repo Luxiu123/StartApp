@@ -1,8 +1,34 @@
 {
-  "apps": [{
+  "app": [{
+    "name": "tomcat",
+    "path": "D:\\Installed\\Tomcat\\tomcat-9.0\\bin\\startup.bat"
+  }, {
     "name": "文件资源管理器",
     "path": "explorer.exe",
-    "args": "e:\\",
-    "delay": 3000
+    "args": "e:\\"
+  }, {
+    "name": "腾讯QQ",
+    "path": "D:\\Installed\\tencentQQ\\Bin\\QQScLauncher.exe",
+    "delay": 10000
+  }, {
+    "name": "v2rayN",
+    "path": "E:\\software backup\\v2rayN-Core\\v2rayN.exe",
+    "delay": 10000
+  }, {
+    "name": "腾讯电脑管家",
+    "path": "D:\\Installed\\QQPCMgr\\13.10.21936.216\\QQPCTray.exe",
+    "args": "/showui /IntoMode=101",
+    "delay": 10000
+  }, {
+    "name": "edge浏览器",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "delay": 10000
+  }, {
+    "name": "WebApi",
+    "path": "powershell cd E:/Projects/java/DataCollection/dist/WebApi \n python start.py",
+    "delay": 10000
+  }, {
+    "name": "任务管理器",
+    "path": "C:\\WINDOWS\\system32\\Taskmgr.exe"
   }]
 }
