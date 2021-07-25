@@ -1,0 +1,13 @@
+.idea
+.vscode
+target
+dist
+logs
+out
+test
+build
+__pycache__
+*.exe
+*.lnk
+*.spec
+*.ico
