@@ -1,5 +1,5 @@
 {
-  "app": [{
+  "apps": [{
     "name": "tomcat",
     "path": "D:\\Installed\\Tomcat\\tomcat-9.0\\bin\\startup.bat"
   }, {
